@@ -1,0 +1,16 @@
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\ProcessorPort.dll
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\WinTest.exe.config
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\WinTest.exe
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\WinTest.pdb
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\ILive555.Service.dll
+F:\javaWorkSpace\ILive555\WinTest\bin\Debug\ILive555.Service.pdb
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\WinTest.Form1.resources
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\WinTest.Properties.Resources.resources
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\WinTest.exe
+F:\javaWorkSpace\ILive555\WinTest\obj\x86\Debug\WinTest.pdb
+D:\ILive555\WinTest\bin\Debug\WinTest.exe.config
+D:\ILive555\WinTest\obj\x86\Debug\WinTest.exe
+D:\ILive555\WinTest\obj\x86\Debug\WinTest.pdb
