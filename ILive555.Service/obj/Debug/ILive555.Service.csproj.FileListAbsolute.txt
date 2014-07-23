@@ -1,0 +1,10 @@
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\ProcessorPort.dll
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\ILive555.Service.dll.config
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\ILive555.Service.dll
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\ILive555.Service.pdb
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\HttpServer.dll
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\HttpServer.pdb
+F:\javaWorkSpace\ILive555\ILive555.Service\bin\Debug\HttpServer.xml
+F:\javaWorkSpace\ILive555\ILive555.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\javaWorkSpace\ILive555\ILive555.Service\obj\Debug\ILive555.Service.dll
+F:\javaWorkSpace\ILive555\ILive555.Service\obj\Debug\ILive555.Service.pdb
